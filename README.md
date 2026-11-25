@@ -29,6 +29,7 @@ A free list of the 79 English conjunctions and linking words asked in the YDT, Y
 | Bağlaç sayısı | 79 |
 | İçerik | Türkçe anlam, örnek cümle, sınavda kaç kez cevap ve kaç kez şık olduğu |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav, 150 bağlaç sorusu) |
+| YÖKDİL | Benzer akademik kelimeleri kullandığı için YÖKDİL'e hazırlananlar için de uygun |
 | Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
 
