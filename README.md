@@ -13,13 +13,14 @@ Bu repo, YDT ve YDS'ye hazırlananlar için **79 bağlaçlık ücretsiz bir list
 
 - [YDT bağlaçlar listesi PDF](https://englishafl.site/ydt-yds-baglaclar-listesi-englishafl.pdf) (103 KB)
 - [YDT bağlaçlar listesi TXT](https://github.com/Kayra0Z/ydt-baglaclar-listesi/releases/latest/download/ydt_baglaclar_listesi.txt) ve [CSV](https://github.com/Kayra0Z/ydt-baglaclar-listesi/releases/latest/download/ydt_baglaclar_listesi.csv)
+- [YDT bağlaçlar Anki destesi](https://ankiweb.net/shared/info/1846581267) (79 kart)
 - Aranabilir liste: [englishafl.site/sayfalar/ydt-baglaclar-listesi](https://englishafl.site/sayfalar/ydt-baglaclar-listesi/)
 
 Hazırlayan: Kayra Y. · [EnglishAFL](https://englishafl.site) · [Telegram kanalı](https://t.me/s/englishafl)
 
 ## In English
 
-A free list of the 79 English conjunctions and linking words asked in the YDT, YDS and YÖKDİL exams in Turkey. It is built from all 150 conjunction questions in the 28 YDT and YDS papers from 2018 to 2026: every conjunction that appeared as an option is in the list, grouped by meaning (contrast, cause and result, condition, time, addition, comparison, paired conjunctions). Each entry has its Turkish meaning, an example sentence and how many times it was the answer and an option. It comes as a PDF, TXT and CSV, licensed under GPLv3. The searchable list is at [englishafl.site/sayfalar/ydt-baglaclar-listesi](https://englishafl.site/sayfalar/ydt-baglaclar-listesi/).
+A free list of the 79 English conjunctions and linking words asked in the YDT, YDS and YÖKDİL exams in Turkey. It is built from all 150 conjunction questions in the 28 YDT and YDS papers from 2018 to 2026: every conjunction that appeared as an option is in the list, grouped by meaning (contrast, cause and result, condition, time, addition, comparison, paired conjunctions). Each entry has its Turkish meaning, an example sentence and how many times it was the answer and an option. It comes as a PDF, TXT, CSV and an Anki deck, licensed under GPLv3. The searchable list is at [englishafl.site/sayfalar/ydt-baglaclar-listesi](https://englishafl.site/sayfalar/ydt-baglaclar-listesi/).
 
 ## Liste hakkında
 
@@ -28,7 +29,7 @@ A free list of the 79 English conjunctions and linking words asked in the YDT, Y
 | Bağlaç sayısı | 79 |
 | İçerik | Türkçe anlam, örnek cümle, sınavda kaç kez cevap ve kaç kez şık olduğu |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav, 150 bağlaç sorusu) |
-| Format | PDF, TXT, CSV |
+| Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
 
 ## ÖSYM bağlaçları nasıl soruyor?
